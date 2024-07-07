@@ -9,7 +9,7 @@ Se desarrollo una pagina web para la venta de productos de ceramica. Esta consta
 ### Lista de productos
 Proporciona información del producto (imagen, tipo, precio y cantidad disponible), permite seleccionar la cantidad de un producto y agregarlo al carrito.
 ### Carrito de compras
-Proporciona informacion sobre la selección del usuario (tipo, precio y cantidad), el total del costo a abonar y los botones de comprar o vaciar carrito.
+Proporciona informacion sobre la selección del usuario (tipo, precio y cantidad), el total del costo a abonar y las funcionalidades de comprar o vaciar carrito.
 
 ## Datos del estudiante
 
