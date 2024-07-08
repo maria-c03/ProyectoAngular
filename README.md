@@ -1,27 +1,24 @@
 # Terriseria
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.4.
+Este proyecto a sido desarrollado para el seminario de Angular de la carrera TUDAI de la Facultad de Ciencias Exactas, Tandil.
 
-## Development server
+## Tematica Seleccionada
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Se desarrollo una pagina web para la venta de productos de ceramica. Esta consta de una pagina inicial HOME donde se encuentran el carrito de compras y la lista de productos, y una pagina de Contacto.
 
-## Code scaffolding
+### Lista de productos
+Proporciona información del producto (imagen, tipo, precio y cantidad disponible), permite seleccionar la cantidad de un producto y agregarlo al carrito.
+### Carrito de compras
+Proporciona informacion sobre la selección del usuario (tipo, precio y cantidad), el total del costo a abonar y las funcionalidades de comprar o vaciar carrito.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Datos del estudiante
 
-## Build
+- Nombre: María de los ángeles
+- Apellido: Cabrera Nieto
+- DNI: 35295451
+- Email: mariacabrera03@gmail.com
+- Sede: Tandil.
+  
+## Enlace al proyecto (StackBlitz)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+https://stackblitz.com/~/github.com/maria-c03/ProyectoAngular
