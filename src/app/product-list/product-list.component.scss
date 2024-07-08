@@ -4,9 +4,11 @@
 .img-thumbnail{
     width: 8rem;
 }
-// .tdCompra{
-//     display: flex;
-//     flex-wrap: nowrap;
-//     justify-content: space-evenly;
-//     vertical-align: middle;
-// }
+.boton-tabla{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+th, tbody{
+    text-align: center;
+}
